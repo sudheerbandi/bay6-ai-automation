@@ -1,0 +1,15 @@
+playwright
+pytest
+pytest-html
+pytest-xdist
+pytest-rerunfailures
+requests
+pyyaml
+allure-pytest
+loguru
+jsonschema
+faker
+pandas
+openpyxl
+python-dotenv
+pytest-playwright

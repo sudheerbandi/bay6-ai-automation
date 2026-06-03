@@ -1,0 +1,18 @@
+environments:
+
+  dev:
+    web_url: https://development.instructure.com/login/canvas
+    api_url: https://api-dev
+
+  qa:
+    web_url: https://development.instructure.com/login/canvas
+    api_url: https://api-qa
+
+  stage:
+    web_url: https://stage
+    api_url: https://api-stage
+
+  prod:
+    web_url: https://prod
+    api_url: https://api.prod
+
