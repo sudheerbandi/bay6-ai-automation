@@ -17,6 +17,4 @@ class BasePage:
         return self.page.locator(locator).is_visible() 
     
     def wait_for_element(self, locator): 
-        expect( 
-            self.page.locator(locator) 
-        ).to_be_visible()
+        expect(self.page.locator(locator)).to_be_visible()
